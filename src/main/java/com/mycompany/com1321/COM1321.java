@@ -7,6 +7,7 @@ package com.mycompany.com1321;
 /**
  *
  * @author 26082268 Seloi Rabatho Ali Junior
+ * Acknowledgement: GeminiAI(for assistance where necessary)
  */
 import java.util.Scanner;
 public class COM1321 {
