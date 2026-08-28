@@ -6,7 +6,7 @@ package com.mycompany.com1321;
 
 /**
  *
- * @author 26082268 Seloi Rabatho Ali Junior
+ * @author 26082268 Rabatho Ali Junior Seloi 
  * Acknowledgement: GeminiAI(for assistance where necessary)
  */
 import java.util.Scanner;
